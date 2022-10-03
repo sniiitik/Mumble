@@ -17,7 +17,7 @@
 
 </div>
 
-## Download & Setup Instructions :
+## Download & Setup Instructions:
 
 Before downloading the project, check to make sure you meet the [project's requirements.](https://github.com/divanov11/Mumble/blob/master/REQUIREMENTS.md)
 
